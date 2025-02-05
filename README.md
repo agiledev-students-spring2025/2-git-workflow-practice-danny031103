@@ -12,3 +12,4 @@ DeepSeek’s success on a limited budget is impressive and challenges the idea t
 
 I found this article very interesting as it deals with a very hot topic of todays world which is AI. It talks about the succes of the new AI deepseek and emphasyses on how they were able to create this Ai at impresive budget compared to Open AIs chat gpt. Overall a very interesting read.
 
+
