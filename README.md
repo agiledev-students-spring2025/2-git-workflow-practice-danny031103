@@ -7,3 +7,9 @@ This article discusses the newest AI chatbot that has been making headlines worl
 ### Thoughts on DeepSeek  (Natalie Ovcarov)
 
 DeepSeek’s success on a limited budget is impressive and challenges the idea that great software always needs massive resources. It’s a reminder that efficiency and focus can go a long way. I’m curious to see how it evolves and how competitors like OpenAI respond.
+
+### Thoughts on this article (Alvaro Martinez)
+
+I found this article very interesting as it deals with a very hot topic of todays world which is AI. It talks about the succes of the new AI deepseek and emphasyses on how they were able to create this Ai at impresive budget compared to Open AIs chat gpt. Overall a very interesting read.
+
+
