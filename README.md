@@ -3,3 +3,7 @@
 # Reflection
 
 This article discusses the newest AI chatbot that has been making headlines worldwide - DeepSeek. It discusses that it was created in China, and that the most shocking part is the limited budget used to create it while still having a quality product. I think that this extends itself to all of the software industry since many projects are very expensive to make when it may be possible to significantly reduce costs. I think it will be interesting to see how DeepSeek continues to evolve and how other companies such as OpenAI react or improve their products in order to keep up.
+
+### Thoughts on DeepSeek  
+
+DeepSeek’s success on a limited budget is impressive and challenges the idea that great software always needs massive resources. It’s a reminder that efficiency and focus can go a long way. I’m curious to see how it evolves and how competitors like OpenAI respond.
